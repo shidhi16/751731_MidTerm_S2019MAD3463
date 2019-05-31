@@ -1,4 +1,6 @@
 package com.lambton;
 
-public class LambtonStringTools {
+public class LambtonStringTools
+{
+
 }
